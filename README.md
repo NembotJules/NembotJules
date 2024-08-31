@@ -5,7 +5,10 @@
 
 Since: `29/05/2021 12:44 PM`
 ##
- :rofl:
+
+### Hey👋, I'm Nembot Jules💻
+
+I am a passionate Machine Learning practitioner and lifelong learner. I enjoy building ML systems to solve problems across various domains, and I'm here to tackle challenges and expand my knowledge as much as possible.
 
 - 🔭 &nbsp;I’m working on: Definitely on some AI project :wink:
 - 🌱 &nbsp;Currently improving my skills in: MLOPS, System Design, LLMs
