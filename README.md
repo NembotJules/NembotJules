@@ -21,7 +21,7 @@ I am a passionate Machine Learning practitioner and lifelong learner. I enjoy bu
 <!-- BLOG-POST-LIST:START -->
 - [A Comprehensive Guide to ML Monitoring in Production](https://medium.com/@juniorbertrand761/a-comprehensive-guide-to-ml-monitoring-in-production-e202fe1da3d0)
 - [Decision Trees Demystified: A Step-by-Step guide](https://medium.com/@juniorbertrand761/decision-trees-demystified-a-step-by-step-guide-d7ac08d6f6a1)
-
+- [How to Setup Mlflow server on AWS](https://medium.com/@juniorbertrand761/how-to-setup-mlflow-server-on-aws-a-step-by-step-guide-10aa38a9ca5d)
 <!-- BLOG-POST-LIST:END -->
 
 
